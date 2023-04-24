@@ -1,0 +1,99 @@
+/**************************************
+    Default Styles
+***************************************/
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+// @import url('../css/bootstrap/bootstrap-utilities.css');
+// @import url('../css/bootstrap/bootstrap-grid.css');
+@import url('slick.css');
+@import url('slicktheme.css');
+@import url('animation.css');
+
+
+@import 'variables';
+@import 'mixins';
+@import 'reset';
+@import 'typography';
+@import 'extend';
+@import 'animations';
+@import 'shortcode';
+@import 'spacing';
+@import 'common';
+@import 'forms';
+
+
+/**************************************
+    Theme Styles
+***************************************/
+
+@import 'themebg';
+
+/**************************************
+    Header Styles
+***************************************/
+@import 'header';
+@import 'nav';
+@import 'mobilemenu';
+@import 'headertop';
+
+
+/**************************************
+    Elements Styles
+***************************************/
+@import 'sctiontitle';
+@import 'button';
+@import 'breadcrumb';
+@import 'accordion';
+@import 'service';
+@import 'card';
+@import 'progressbar';
+@import 'counter';
+@import 'portfolio';
+@import 'social';
+@import 'team';
+@import 'timeline';
+@import 'testimonial';
+@import 'slickslide';
+@import 'tab';
+@import 'pricing';
+@import 'split';
+@import 'callto-action';
+@import 'video';
+@import 'contact';
+@import 'brand';
+@import 'newsletter';
+@import 'advance-tab';
+@import 'advancepricing';
+@import 'about';
+@import 'swicher';
+@import '404';
+
+
+
+/**************************************
+    Blog Styles
+***************************************/
+
+@import 'blog';
+@import 'sidebar';
+@import 'blog-details';
+
+
+
+/**************************************
+    Footer Styles
+***************************************/
+@import 'banner';
+@import 'portfoliodetails';
+@import 'splash';
+
+
+
+/**************************************
+    Footer Styles
+***************************************/
+
+@import 'footer';
+@import 'copyright';
+@import 'darkmode';
+
