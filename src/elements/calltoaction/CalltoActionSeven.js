@@ -6,7 +6,7 @@ import Logo from "../logo/Logo";
 const callToActionData = {
     title: "Ready to start creating a standard website?",
     subtitle: "Se você quer transformar sua empresa e impulsionar seu negócio para o próximo nível, entre em contato",
-    btnText: "Entrar em contato!",
+    btnText: "Entrar em contato",
 }
 
 const CalltoActionSeven = () => {

@@ -41,7 +41,7 @@ const ContactOne = () => {
                                     </div>
                                     <div className="inner">
                                         <h4 className="title">Nossa Localização</h4>
-                                        <p>5678 Bangla Main Road, cities 580 <br /> GBnagla, example 54786</p>
+                                        <p>Av. Engenheiro Luís Carlos Berrini, 1748 Conjunto 1710</p>
                                     </div>
                                 </div>
                             </div>

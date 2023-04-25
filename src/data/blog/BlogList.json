@@ -2,9 +2,9 @@
     {
         "id": 1,
         "title": "Cloud Native Apps: O futuro da computação em nuvem.",
-        "image": "images/blog/blog-01.jpg",
+        "image": "images/blog/cloudnative.jpg",
         "text": "AppValue",
-        "largeImage": "images/blog/blog-01.jpg",
+        "largeImage": "images/blog/cloudnative.jpg",
         "author": ["AppValue"],
         "date": "10 Mar 2023",
         "view": "500 views",
@@ -29,16 +29,16 @@
     },
     {
         "id": 3,
-        "title": "The Next 100 Things To Immediately Do About.",
-        "image": "images/blog/blog-03.jpg",
-        "text": "John Dou",
+        "title": "API Gateway pode simplificar e proteger sua arquitetura.",
+        "image": "images/blog/apigateway.jpg",
+        "text": ["AppValue"],
         "largeImage": "images/blog/blog-03.jpg",
-        "author": ["John Dou"],
-        "date": "12 Oct 2020",
-        "view": "70 views",
-        "categories": ["Development", "UX Design", "Business", "Company"],
-        "excerpt": "We have always known the power of digital we've.",
-        "body":  ["<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>", "<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>", "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>", "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>", "<p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>", "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>"],
-        "tags": ["App Landing", "Startup", "Development", "Design"]
+        "author": ["AppValue"],
+        "date": "10 Mar 2023",
+        "view": "398 views",
+        "categories": ["FinOps", "Cloud","Development", "API gateway"],
+        "excerpt": "API Gateway pode simplificar e proteger sua arquitetura.",
+        "body":  ["<p>Nos &uacute;ltimos anos, as arquiteturas de microsservi&ccedil;os tornaram-se cada vez mais populares, permitindo que as equipes de desenvolvimento dividam as aplica&ccedil;&otilde;es em pequenos servi&ccedil;os independentes. Embora essa abordagem tenha muitos benef&iacute;cios, ela tamb&eacute;m pode criar um desafio significativo em termos de gerenciamento de tr&aacute;fego e integra&ccedil;&atilde;o entre esses servi&ccedil;os. &Eacute; aqui que entra a import&acirc;ncia do uso de um API Gateway.</p>\n\n<p>Um API Gateway &eacute; uma camada intermedi&aacute;ria entre os servi&ccedil;os e os clientes que consomem esses servi&ccedil;os. Sua principal fun&ccedil;&atilde;o &eacute; receber as solicita&ccedil;&otilde;es dos clientes, rote&aacute;-las para o servi&ccedil;o apropriado e retornar as respostas para o cliente. Al&eacute;m disso, um API Gateway pode oferecer uma s&eacute;rie de recursos adicionais, como autentica&ccedil;&atilde;o, autoriza&ccedil;&atilde;o, cache, balanceamento de carga e monitoramento de tr&aacute;fego.</p>\n\n<p>Um dos principais benef&iacute;cios do uso de um API Gateway &eacute; a capacidade de simplificar o gerenciamento de tr&aacute;fego entre os servi&ccedil;os. Com v&aacute;rios servi&ccedil;os em execu&ccedil;&atilde;o em diferentes servidores, pode ser dif&iacute;cil para os desenvolvedores rastrear onde as solicita&ccedil;&otilde;es est&atilde;o indo e como est&atilde;o sendo tratadas. Com um API Gateway, todas as solicita&ccedil;&otilde;es passam por um &uacute;nico ponto de entrada, tornando mais f&aacute;cil para os desenvolvedores monitorar e gerenciar o tr&aacute;fego.</p>\n\n<p>Al&eacute;m disso, um API Gateway pode oferecer uma camada adicional de seguran&ccedil;a para a arquitetura de microsservi&ccedil;os. Por exemplo, um gateway pode ser configurado para autenticar os usu&aacute;rios antes de encaminhar a solicita&ccedil;&atilde;o para o servi&ccedil;o relevante. Isso pode ajudar a proteger os servi&ccedil;os de ataques mal-intencionados e tamb&eacute;m garantir que apenas usu&aacute;rios autorizados possam acessar os dados.</p>\n\n<p>Outro benef&iacute;cio do uso de um API Gateway &eacute; a capacidade de simplificar a integra&ccedil;&atilde;o entre os servi&ccedil;os. Em vez de cada servi&ccedil;o ter que ser integrado individualmente com todos os outros servi&ccedil;os da arquitetura, um API Gateway pode ser usado como um ponto centralizado de integra&ccedil;&atilde;o. Isso pode economizar tempo e esfor&ccedil;o para os desenvolvedores e tamb&eacute;m tornar a integra&ccedil;&atilde;o mais consistente e confi&aacute;vel.</p>\n\n<p>Finalmente, um API Gateway pode ajudar a melhorar o desempenho e a escalabilidade da arquitetura de microsservi&ccedil;os. Um gateway pode ser configurado para fazer cache das respostas dos servi&ccedil;os, reduzindo a lat&ecirc;ncia e melhorando o tempo de resposta. Al&eacute;m disso, um gateway pode ser configurado para balancear a carga entre v&aacute;rios servidores, garantindo que a arquitetura possa lidar com um grande n&uacute;mero de solicita&ccedil;&otilde;es simult&acirc;neas.</p>\n\n<p>Em resumo, um API Gateway &eacute; uma parte cr&iacute;tica de qualquer arquitetura de microsservi&ccedil;os. Ele pode ajudar a simplificar o gerenciamento de tr&aacute;fego, melhorar a seguran&ccedil;a, simplificar a integra&ccedil;&atilde;o entre os servi&ccedil;os e melhorar o desempenho e a escalabilidade da arquitetura. Com tantos benef&iacute;cios, &eacute; dif&iacute;cil argumentar contra o uso de um API Gateway em qualquer arquitetura de microsservi&ccedil;os.</p>"],
+        "tags": ["FinOps", "Cloud","Development", "API gateway"]
     }
 ]
