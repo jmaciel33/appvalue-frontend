@@ -11,7 +11,7 @@ const BlogGridView = () => {
             <SEO title="Appvalue Blog" />
             <Layout>
                 <BreadcrumbOne
-                    title="The Easiest Way To Create Website <br /> Quick Copy & Make site."
+                    title="Nosso Blog"
                     rootUrl="/"
                     parentUrl="Home"
                     currentUrl="Blog List"

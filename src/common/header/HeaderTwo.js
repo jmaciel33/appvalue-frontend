@@ -26,7 +26,7 @@ const HeaderTwo = ({btnStyle, HeaderSTyle}) => {
 
     return (
         <>
-            <header ref={ref} className={`rn-header header-default header-left-align ${HeaderSTyle} ${headerClasses}`}>
+            <header ref={ref} className={`rn-header header-default header-align ${HeaderSTyle} ${headerClasses}`}>
                 <div className="container position-relative">
                     <div className="row align-items-center">
                         <div className="col-lg-9 col-md-6 col-4 position-static">
@@ -40,6 +40,9 @@ const HeaderTwo = ({btnStyle, HeaderSTyle}) => {
                                 </nav>
                             </div>
                         </div>
+
+
+
                         <div className="col-lg-3 col-md-6 col-8">
                             <div className="header-right">
                                 <div className="mobile-menu-bar ml--5 d-block d-lg-none">
