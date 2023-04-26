@@ -17,11 +17,6 @@
                 "id": 2,
                 "text": "Contact",
                 "url": "/contact"
-            },
-            {
-                "id": 4,
-                "text": "Service",
-                "url": "/service"
             }
         ]
     },
