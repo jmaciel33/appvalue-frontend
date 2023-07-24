@@ -25,7 +25,7 @@ var BlogListData = BlogClassicData.slice(0, 3);
 const BusinessConsulting2 = () => {
     return (
         <>
-            <SEO title="AppValue - Consulting.`" />
+            <SEO title="AppValue - Consulting." />
             <main className="page-wrapper">
                 <HeaderOne btnStyle="round" HeaderSTyle="header-not-transparent" />
 
