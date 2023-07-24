@@ -40,7 +40,7 @@ function ContactForm({props , formStyle}) {
                 <input
                 type="text"
                 name="fullname"
-                placeholder="Your Name"
+                placeholder="Nome Completo"
                 required
                 />
             </div>
@@ -49,7 +49,7 @@ function ContactForm({props , formStyle}) {
                 <input
                 type="email"
                 name="email"
-                placeholder="Email Address"
+                placeholder="e-mail"
                 required
                 />
             </div>
@@ -58,7 +58,7 @@ function ContactForm({props , formStyle}) {
                 <input
                 type="text"
                 name="phone"
-                placeholder="Phone Number"
+                placeholder="Celular"
                 required
                 />
             </div>
@@ -68,7 +68,7 @@ function ContactForm({props , formStyle}) {
                 <input
                 type="text"
                 name="subject"
-                placeholder="Subject"
+                placeholder="Título"
                 required
                 />
             </div>
@@ -76,7 +76,7 @@ function ContactForm({props , formStyle}) {
             <div className="form-group">
                 <textarea
                 name="message"
-                placeholder="Your Message"
+                placeholder="Mensagem"
                 required
                 >
                 </textarea>

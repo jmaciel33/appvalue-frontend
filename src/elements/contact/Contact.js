@@ -8,13 +8,13 @@ import ContactOne from "./ContactOne";
 const Contact = () => {
     return (
         <>
-            <SEO title="Contact" />
+            <SEO title="Contato" />
             <Layout>
                 <BreadcrumbOne
                     title="Desbloqueie o potencial <br /> da sua empresa."
                     rootUrl="/"
                     parentUrl="Home"
-                    currentUrl="Contact"
+                    currentUrl="Contato"
                 />
                 <div className="main-content">
                     {/* Start Contact Area  */}

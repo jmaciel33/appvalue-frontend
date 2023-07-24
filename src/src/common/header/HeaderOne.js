@@ -17,7 +17,7 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
     const sticky = useStickyHeader( 50 );
     const headerClasses = `header-default ${(sticky && check) ? 'sticky' : ''}`
     const { clientHeight } = ref;
-    
+
     const checkChange = (value) => {
       setCheck(value);
     };
@@ -27,7 +27,7 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
                 <div className="container position-relative">
                     <div className="row align-items-center row--0">
                         <div className="col-lg-3 col-md-6 col-4">
-                            <Logo 
+                            <Logo
                                 image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
                                 image2={`${process.env.PUBLIC_URL}/images/logo/logo-dark.png`}
                             />
@@ -46,7 +46,7 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
                                     </div>
                                 </div>
                                 <Darkmode />
-                            </div>  
+                            </div>
                         </div>
                     </div>
                 </div>

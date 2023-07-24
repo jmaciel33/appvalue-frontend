@@ -18,7 +18,7 @@ const HeaderTwo = ({btnStyle, HeaderSTyle}) => {
     const sticky = useStickyHeader( 50 );
     const headerClasses = `header-default ${(sticky && check) ? 'sticky' : ''}`
     const { clientHeight } = ref;
-    
+
     const checkChange = (value) => {
       setCheck(value);
     };
@@ -31,7 +31,7 @@ const HeaderTwo = ({btnStyle, HeaderSTyle}) => {
                     <div className="row align-items-center">
                         <div className="col-lg-9 col-md-6 col-4 position-static">
                             <div className="header-left d-flex">
-                                <Logo 
+                                <Logo
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
                                     image2={`${process.env.PUBLIC_URL}/images/logo/logo-dark.png`}
                                 />

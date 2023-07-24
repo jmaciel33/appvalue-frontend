@@ -3,7 +3,7 @@ import Typed from 'react-typed';
 import SEO from "../common/SEO";
 import {Link} from "react-router-dom";
 import { FiArrowRight } from "react-icons/fi";
-import HeaderTwo from '../common/header/HeaderTwo';
+import HeaderOne from '../common/header/HeaderOne';
 import HeaderTopNews from '../common/header/HeaderTopNews';
 import FooterTwo from '../common/footer/FooterTwo';
 import Copyright from '../common/footer/Copyright';
@@ -25,9 +25,9 @@ var BlogListData = BlogClassicData.slice(0, 3);
 const BusinessConsulting2 = () => {
     return (
         <>
-            <SEO title="AppValue" />
+            <SEO title="AppValue - Consulting.`" />
             <main className="page-wrapper">
-                <HeaderTwo btnStyle="round" HeaderSTyle="header-not-transparent" />
+                <HeaderOne btnStyle="round" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider Area  */}
                 <div className="slider-area slider-style-1 bg-transparent height-850">
