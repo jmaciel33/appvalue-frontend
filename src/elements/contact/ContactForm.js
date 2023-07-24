@@ -49,7 +49,7 @@ function ContactForm({props , formStyle}) {
                 <input
                 type="email"
                 name="email"
-                placeholder="e-mail"
+                placeholder="E-Mail"
                 required
                 />
             </div>
