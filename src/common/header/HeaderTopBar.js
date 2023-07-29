@@ -23,7 +23,7 @@ const HeaderTopBar = () => {
                                     <li><Link to="twitter.com"><FiFacebook /></Link></li>
                                     <li><Link to="twitter.com"><FiTwitter /></Link></li>
                                     <li><Link to="instagram.com"><FiInstagram /></Link></li>
-                                    <li><Link to="https://www.linkedin.com/company/somosappvalue"><FiLinkedin /></Link></li>
+                                    <li><a href="https://bit.ly/linkedin-appvalue"><FiLinkedin /></a></li>
                                 </ul>
                             </div>
                         </div>
