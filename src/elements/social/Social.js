@@ -14,7 +14,7 @@ const Social = () => {
         <>
             <SEO title="Social Share || Doob - React Business  Template" />
             <Layout>
-                <BreadcrumbOne 
+                <BreadcrumbOne
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."
                     rootUrl="/"
                     parentUrl="Home"
@@ -41,14 +41,14 @@ const Social = () => {
                                         <li><Link to="facebook.com"><FiFacebook /></Link></li>
                                         <li><Link to="twitter.com"><FiTwitter /></Link></li>
                                         <li><Link to="instagram.com"><FiInstagram /></Link></li>
-                                        <li><Link to="linkdin.com"><FiLinkedin /></Link></li>
+                                        <li><Link to="https://www.linkedin.com/company/somosappvalue"><FiLinkedin /></Link></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     {/* End Elements Area  */}
-                    <Separator />  
+                    <Separator />
 
 
                     {/* Start Elements Area  */}
@@ -72,14 +72,14 @@ const Social = () => {
                                         <li><Link to="facebook.com"><FiFacebook /></Link></li>
                                         <li><Link to="twitter.com"><FiTwitter /></Link></li>
                                         <li><Link to="instagram.com"><FiInstagram /></Link></li>
-                                        <li><Link to="linkdin.com"><FiLinkedin /></Link></li>
+                                        <li><Link to="https://www.linkedin.com/company/somosappvalue"><FiLinkedin /></Link></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     {/* End Elements Area  */}
-                    <Separator />  
+                    <Separator />
 
 
 
@@ -104,14 +104,14 @@ const Social = () => {
                                         <li><Link to="facebook.com"><FiFacebook /></Link></li>
                                         <li><Link to="twitter.com"><FiTwitter /></Link></li>
                                         <li><Link to="instagram.com"><FiInstagram /></Link></li>
-                                        <li><Link to="linkdin.com"><FiLinkedin /></Link></li>
+                                        <li><Link to="https://www.linkedin.com/company/somosappvalue"><FiLinkedin /></Link></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     {/* End Elements Area  */}
-                    <Separator />  
+                    <Separator />
 
                     {/* Start Elements Area  */}
                     <div className="rwt-social-area rn-section-gap">
@@ -134,14 +134,14 @@ const Social = () => {
                                         <li><Link to="facebook.com"><FiFacebook /></Link></li>
                                         <li><Link to="twitter.com"><FiTwitter /></Link></li>
                                         <li><Link to="instagram.com"><FiInstagram /></Link></li>
-                                        <li><Link to="linkdin.com"><FiLinkedin /></Link></li>
+                                        <li><Link to="https://www.linkedin.com/company/somosappvalue"><FiLinkedin /></Link></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     {/* End Elements Area  */}
-                    <Separator />  
+                    <Separator />
 
                     {/* Start Elements Area  */}
                     <div className="rwt-social-area rn-section-gap">
@@ -164,14 +164,14 @@ const Social = () => {
                                         <li><Link to="facebook.com"><FiFacebook /></Link></li>
                                         <li><Link to="twitter.com"><FiTwitter /></Link></li>
                                         <li><Link to="instagram.com"><FiInstagram /></Link></li>
-                                        <li><Link to="linkdin.com"><FiLinkedin /></Link></li>
+                                        <li><Link to="https://www.linkedin.com/company/somosappvalue"><FiLinkedin /></Link></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     {/* End Elements Area  */}
-                    <Separator />  
+                    <Separator />
 
 
 
