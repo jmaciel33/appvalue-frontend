@@ -14,6 +14,7 @@ const Copyright = () => {
                     <div className="col-lg-6 col-md-4 col-sm-12 col-12">
                         <div className="copyright-right text-center text-md-end">
                             <p className="copyright-text">Feito com ❤️ em São Paulo</p>
+                            <p className="copyright-text">Appvalue 50.545.668/0001-92</p>
                             <p className="copyright-text">© Appvalue. All Rights Reserved {new Date().getFullYear()}</p>
                         </div>
                     </div>
