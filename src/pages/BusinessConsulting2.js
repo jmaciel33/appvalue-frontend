@@ -39,6 +39,7 @@ const BusinessConsulting2 = () => {
                                     <h1 className="title theme-gradient display-two">APPVALUE. <br /> {" "}
                                         <Typed
                                             strings={[
+                                                "Products",
                                                 "Consulting.",
                                                 "Innovation.",
                                                 "Technology.",
